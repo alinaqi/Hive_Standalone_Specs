@@ -2382,4 +2382,4 @@ The SDK provides the foundation for truly autonomous operation while maintaining
 
 *This specification is a living document. Updates will be made as the system evolves.*
 
-*Version 0.2 - Draft - December 2024*
+*Version 0.2 - Draft - Jan 2025*
