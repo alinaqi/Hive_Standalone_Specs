@@ -2,8 +2,8 @@
 
 > **Version**: 0.2 (Draft)
 > **Status**: Specification Only
-> **Author**: IdeaMiner Team
-> **Last Updated**: December 2024
+> **Author**: Hive
+> **Last Updated**: January 2025
 
 ## Executive Summary
 
